@@ -26,4 +26,4 @@ Kira Plastinina is a Russian brand that is sold through a defunct chain of retai
 - Follow up questions.
 ## Set-Up
 Programs used;
-R, RStudio.
+-R, RStudio.
