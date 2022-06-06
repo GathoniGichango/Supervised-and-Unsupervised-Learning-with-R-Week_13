@@ -1,7 +1,7 @@
 # Supervised-and-Unsupervised-Learning-with-R-Week_13
 ## Description.
 ### 1. Supervised Learning.
-With the analysis from the previous repository (), modelling has been implemented to classify who does or does not click on the advertisments.
+With the analysis from the previous repository (https://github.com/GathoniGichango/EDA-Analysis-With-R-Week_12-/blob/main/EDA-with-R.pdf), modelling has been implemented to classify who does or does not click on the advertisments.
 ### 2. Unsupervised Learning.
 Kira Plastinina is a Russian brand that is sold through a defunct chain of retail stores in Russia, Ukraine, Kazakhstan, Belarus, China, Philippines, and Armenia. The brand’s Sales and Marketing team would like to understand their customer’s behavior from data that they have collected over the past year. More specifically, they would like to learn the characteristics of customer groups.
 ## Experimental Design.
@@ -24,5 +24,6 @@ Kira Plastinina is a Russian brand that is sold through a defunct chain of retai
 - Comparison of the models' performance.
 - Challenging the solution.
 - Follow up questions.
-## 
+## Set-Up
+Programs used;
 R, RStudio.
